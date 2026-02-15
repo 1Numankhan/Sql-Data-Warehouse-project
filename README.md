@@ -1,7 +1,7 @@
 #  Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository!   
-This project demonstrates a complete end-to-end data warehousing and analytics solution — from building a modern SQL Server data warehouse to generating meaningful business insights.
+This project demonstrates a complete end-to-end data warehousing and analytics solution from building a modern SQL Server data warehouse to generating meaningful business insights.
 
 It is designed as a portfolio project highlighting best practices in:
 
